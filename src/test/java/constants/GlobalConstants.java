@@ -24,13 +24,13 @@ public class GlobalConstants {
     public String catname = "Skinallergy";
     public String catDescription = "Tablet";
     	
-    public String filepath = "C:\\Users\\sowji\\eclipseworkspace1\\Project_Capstone\\Screenshot (10).png";
+    public String filepath = "E:\\Capstone1\\Simplilearn_Capstone-Medicare\\Screenshot (10).png";
     public String Add1 = "89/90, bhu Mkil";
     public String Add2 = "78/34 The mikd";
-    public String postalcode = "532001";
-    public String city = "Vizag";
+    public String postalcode = "313001";
+    public String city = "Udaipur";
     public String Country = "India";
-    public String State = "AndhraPradesh";
+    public String State = "Rajasthan";
     
     public String cardnum = "8989898989";
     public String month = "12";
@@ -43,16 +43,16 @@ public class GlobalConstants {
     //Register
 
     
-    public String regfirstname = "Sowmya";
-    public String regLastname = "V";
+    public String regfirstname = "Dinesh";
+    public String regLastname = "K";
     public static String email = TestBase.getRandomemail();
-    public String regContact = "9014412898";
-    public String regPassword = "Sowmya123";
+    public String regContact = "8209058373";
+    public String regPassword = "Dinesh123";
     public String regAddress1 = "Test villa";
-    public String regAddress2 = "Maldi";
-    public String regCity = "Ranchi";
-    public String regPostalcode = "532991";
-    public String regState = "UP";
+    public String regAddress2 = "Pali";
+    public String regCity = "Pali";
+    public String regPostalcode = "306401";
+    public String regState = "Rajasthan";
 
     //API
     
@@ -67,7 +67,7 @@ public class GlobalConstants {
     
     public static String dbcatname = "Datapeb";
     public static String dbdescription = "This drug cures headache";
-    public static String dbimage = "C:\\Users\\sowji\\eclipseworkspace1\\Project_Capstone\\Screenshot (10).png";
+    public static String dbimage = "E:\\Capstone1\\Simplilearn_Capstone-Medicare\\Screenshot (10).png";
 }
 
 
