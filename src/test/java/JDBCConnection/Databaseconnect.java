@@ -27,7 +27,7 @@ public class Databaseconnect {
 	    	Class.forName("com.mysql.jdbc.Driver");
 		
 		String url = "jdbc:mysql://localhost/medicare";  //&useSSL=false&allowPublicKeyRetrieval=true";
-        String username = "admin";
+        String username = "root";
         String password = "admin";
         connection = DriverManager.getConnection(url, username, password);
         statement = connection.createStatement();
